@@ -8,6 +8,9 @@ public class Avenger {
 public void test()
 {
 	System.out.println("----junkins tested------");
+	
+	
+	
 	System.out.println("----junkins tested2----");
 }
 }
